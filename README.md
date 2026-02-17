@@ -12,6 +12,18 @@ Strong Junior Developer focused on custom WordPress themes, plugins and producti
 
 <h2>💼 Professional Experience</h2>
 
+<h4>Freelance WordPress Developer</h4>
+<p><i>Feb 2026 – Present</i></p>
+
+<ul>
+  <li>Developing a custom WordPress plugin (in progress)</li>
+  <li>Building a commercial cleaning service website (in development)</li>
+  <li>Working with Sage (Roots) and Blade templating</li>
+  <li>Implementing ACF-based content structure</li>
+  <li>Handling hosting, domain configuration and SSL setup</li>
+  <li>Improving frontend performance and responsive layout</li>
+</ul>
+
 <h4>WordPress Developer — JDI (Remote)</h4>
 <p><i>Jun 2025 – Feb 2026 (9 months)</i></p>
 
@@ -23,18 +35,6 @@ Strong Junior Developer focused on custom WordPress themes, plugins and producti
   <li>Improved PageSpeed & Lighthouse metrics (CSS/JS optimization, lazy-load)</li>
   <li>Maintained production stability across commercial projects</li>
   <li>Followed WordPress security best practices</li>
-</ul>
-
-<h4>Freelance WordPress Developer</h4>
-<p><i>Feb 2026 – Present</i></p>
-
-<ul>
-  <li>Developing a custom WordPress plugin (in progress)</li>
-  <li>Building a commercial cleaning service website (in development)</li>
-  <li>Working with Sage (Roots) and Blade templating</li>
-  <li>Implementing ACF-based content structure</li>
-  <li>Handling hosting, domain configuration and SSL setup</li>
-  <li>Improving frontend performance and responsive layout</li>
 </ul>
 
 <h4>Private Java Tutor</h4>
