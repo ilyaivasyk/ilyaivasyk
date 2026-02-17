@@ -5,7 +5,10 @@ I design and build production-ready WordPress systems with structured architectu
 Experienced in full-cycle project delivery — from custom theme & plugin development to hosting, domain and SSL configuration.
 
 📊 GitHub Stats
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=ilyaivasyk&theme=dark&hide_border=true)
+
+
 💼 Professional Experience
 WordPress Developer — JDI (Remote)
 
