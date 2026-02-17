@@ -6,7 +6,12 @@ Experienced in full-cycle project delivery — from custom theme & plugin develo
 
 📊 GitHub Stats
 
-<p>![GitHub Streak](https://streak-stats.demolab.com?user=ilyaivasyk&theme=dark&hide_border=true)</p>
+## 📊 Activity
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ilyaivasyk&theme=dark&hide_border=true" />
+</p>
+
 
 
 💼 Professional Experience
