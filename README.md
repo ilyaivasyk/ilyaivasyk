@@ -1,167 +1,106 @@
-Ilya Ivasyk
-WordPress Engineer | Plugin Developer | Frontend Developer
-
-I design and build production-ready WordPress systems with structured architecture, performance focus and long-term maintainability.
-Experienced in full-cycle project delivery — from custom theme & plugin development to hosting, domain and SSL configuration.
-
-💼 Professional Experience
-WordPress Developer — JDI (Remote)
-
-Jun 2025 – Feb 2026
-
-Architected flexible content systems using ACF Pro
-
-Built custom post types & taxonomies with structured output logic
-
-Designed and developed custom WordPress plugins
-
-Implemented admin settings pages and internal business logic
-
-Worked with WordPress hooks (actions & filters)
-
-Extended core functionality according to project requirements
-
-Structured plugin architecture following WordPress coding standards
-
-Fixed production-level PHP & JavaScript issues
-
-Worked in Bedrock-based environments
-
-Implemented responsive UI from Figma
-
-Applied performance optimization (asset minification, lazy loading)
-
-Maintained production stability across commercial platforms
-
-Freelance WordPress Engineer
-
-2024 – 2025
-
-Delivered end-to-end WordPress projects for commercial clients.
-
-🔹 Custom Theme Development (Sage)
-
-Built fully custom themes using Sage (Roots) + Blade
-
-Designed modular ACF-based architecture
-
-Developed reusable UI components
-
-Implemented responsive layouts from Figma
-
-Structured SCSS using BEM methodology
-
-🔹 Full Project Lifecycle
-
-WordPress installation & configuration
-
-Domain & DNS setup
-
-Hosting configuration
-
-SSL installation & HTTPS setup
-
-Production deployment
-
-Post-launch support & debugging
-
-🔹 Performance & Stability
-
-CSS/JS optimization
-
-Lazy loading implementation
-
-Lighthouse performance improvements
-
-Clean, maintainable codebase
-
-WordPress security best practices
-
-🏗 Selected Commercial Projects
-🔹 Translation Agency Platform
-
-https://www.pereklad.site/
-
-Multilingual WordPress architecture
-
-Custom theme built from scratch
-
-ACF Pro structured content system
-
-Blade templating (Sage)
-
-Performance-focused frontend
-
-🔹 Real Estate Website
-
-https://www.tykhyi-dvir.com.ua/
-
-Custom WordPress theme
-
-Dynamic content architecture
-
-Performance optimization
-
-Hosting & deployment configuration
-
-Ongoing technical support
-
-🛠 Core Expertise
-WordPress Engineering
-
-Custom Theme Development (Sage / Blade)
-
-Custom Plugin Development
-
-ACF Pro architecture
-
-Bedrock
-
-WordPress hooks system
-
-Technical SEO
-
-Performance optimization
-
-Production debugging
-
-Deployment workflows
-
-Frontend Development
-
-HTML5 / SCSS
-
-Tailwind CSS
-
-JavaScript (ES6+)
-
-jQuery
-
-Responsive & cross-browser systems
-
-BEM methodology
-
-Infrastructure
-
-Domain & DNS configuration
-
-SSL setup
-
-Hosting deployment
-
-Production environment setup
-
-📚 Tech Author
-
-Author of programming books and structured coding problem collections available on Amazon.
-Focused on practical problem-solving and engineering thinking.
-
-🌍 Availability
-
-Open to remote opportunities and freelance collaborations.
-
-📫 Contact
-
-Telegram: https://t.me/ilya_ivasyk
-
-Resume: https://www.work.ua/resumes/5359830/
+<h1 align="center">👋 Ilya Ivasyk</h1>
+
+<h3 align="center">
+WordPress Developer | Plugin Development | Frontend Developer
+</h3>
+
+<p align="center">
+Strong Junior Developer focused on custom WordPress themes, plugins and production-ready websites.<br/>
+Author of programming books and structured coding problem collections.
+</p>
+
+<hr/>
+
+<h2>💼 Professional Experience</h2>
+
+<h3>WordPress Developer — JDI (Remote)</h3>
+<p><i>Jun 2025 – Feb 2026</i></p>
+
+<ul>
+  <li>Developed custom WordPress plugins for internal business logic</li>
+  <li>Worked with ACF Pro for structured content management</li>
+  <li>Built custom post types and taxonomies</li>
+  <li>Worked in Bedrock-based environments</li>
+  <li>Fixed production-level PHP and JavaScript issues</li>
+  <li>Improved performance and deployment workflows</li>
+</ul>
+
+<hr/>
+
+<h3>Freelance WordPress Developer</h3>
+<p><i>2024 – 2025</i></p>
+
+<ul>
+  <li>Built fully custom WordPress themes using Sage (Roots) + Blade</li>
+  <li>Implemented modular ACF-based content structure</li>
+  <li>Converted Figma designs into responsive UI</li>
+  <li>Configured domain, DNS and hosting</li>
+  <li>Installed and configured SSL certificates</li>
+  <li>Handled production deployment and post-launch fixes</li>
+</ul>
+
+<hr/>
+
+<h2>🏗 Selected Projects</h2>
+
+<p><b>Translation Agency Website</b><br/>
+<a href="https://www.pereklad.site/">pereklad.site</a><br/>
+Custom multilingual WordPress theme with ACF structure
+</p>
+
+<p><b>Real Estate Website</b><br/>
+<a href="https://www.tykhyi-dvir.com.ua/">tykhyi-dvir.com.ua</a><br/>
+Custom theme, dynamic content logic and deployment setup
+</p>
+
+<hr/>
+
+<h2>🛠 Technical Skills</h2>
+
+<h4>WordPress</h4>
+<ul>
+  <li>Custom Theme Development (Sage / Blade)</li>
+  <li>Custom Plugin Development</li>
+  <li>ACF Pro</li>
+  <li>WordPress hooks (actions & filters)</li>
+  <li>Basic performance optimization</li>
+</ul>
+
+<h4>Frontend</h4>
+<ul>
+  <li>HTML5 / SCSS</li>
+  <li>Tailwind CSS</li>
+  <li>JavaScript (ES6+)</li>
+  <li>jQuery</li>
+  <li>Responsive & cross-browser layout</li>
+</ul>
+
+<h4>Infrastructure</h4>
+<ul>
+  <li>Domain & DNS configuration</li>
+  <li>SSL setup</li>
+  <li>Hosting deployment</li>
+  <li>Production environment setup</li>
+</ul>
+
+<hr/>
+
+<h2>📚 Tech Author</h2>
+
+<p>
+Author of programming books and coding problem collections available on Amazon.<br/>
+Focused on practical exercises and structured learning.
+</p>
+
+<hr/>
+
+<h2>🌍 Availability</h2>
+
+<p>
+Open to remote opportunities and freelance projects.
+</p>
+
+<p>
+📫 Telegram: <a href="https://t.me/ilya_ivasyk">t.me/ilya_ivasyk</a><br/>
+📄 Resume: <a href="https://www.work.ua/resumes/5359830/">Work.ua Profile</a>
+</p>
