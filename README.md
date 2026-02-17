@@ -5,7 +5,7 @@ WordPress Developer | Plugin Development | Frontend Developer
 </h3>
 
 <p align="center">
-Strong Junior Developer focused on custom WordPress themes, plugins and production-ready websites.
+Strong Junior WordPress Developer focused on custom themes, plugin development and production-ready websites.
 </p>
 
 <hr/>
@@ -16,11 +16,11 @@ Strong Junior Developer focused on custom WordPress themes, plugins and producti
 <p><i>Feb 2026 – Present</i></p>
 
 <ul>
-  <li>Developing a custom WordPress plugin (in progress)</li>
-  <li>Building a commercial cleaning service website (in development)</li>
+  <li>Developing a custom WordPress plugin (currently in progress)</li>
+  <li>Building a commercial website for a cleaning service (in development)</li>
   <li>Working with Sage (Roots) and Blade templating</li>
-  <li>Implementing ACF-based content structure</li>
-  <li>Handling hosting, domain configuration and SSL setup</li>
+  <li>Implementing structured content management using ACF</li>
+  <li>Configuring hosting, domain settings and SSL certificates</li>
   <li>Improving frontend performance and responsive layout</li>
 </ul>
 
@@ -30,12 +30,45 @@ Strong Junior Developer focused on custom WordPress themes, plugins and producti
 <ul>
   <li>Integrated and configured ACF Pro for structured content management</li>
   <li>Developed and maintained custom WordPress plugins</li>
-  <li>Worked in Bedrock-based environments</li>
+  <li>Worked with Bedrock-based environments</li>
   <li>Fixed PHP, JavaScript and layout issues in production</li>
-  <li>Improved PageSpeed & Lighthouse metrics (CSS/JS optimization, lazy-load)</li>
-  <li>Maintained production stability across commercial projects</li>
-  <li>Followed WordPress security best practices</li>
+  <li>Contributed to performance improvements (CSS/JS optimization, lazy loading)</li>
+  <li>Maintained stability of commercial WordPress projects</li>
+  <li>Applied basic WordPress security best practices</li>
 </ul>
+
+<h4>Freelance WordPress Developer</h4>
+<p><i>2024 – 2025</i></p>
+
+<ul>
+  <li>Developed commercial WordPress websites from scratch to production</li>
+  <li>Built custom themes based on project requirements</li>
+  <li>Implemented structured content management using ACF Pro</li>
+  <li>Converted Figma designs into responsive layouts</li>
+  <li>Configured hosting, domain and DNS settings</li>
+  <li>Installed and configured SSL certificates (HTTPS setup)</li>
+  <li>Handled deployment and post-launch adjustments</li>
+</ul>
+
+<p>
+<b>Projects:</b><br/>
+Translation Agency Website – 
+<a href="https://www.pereklad.site/">pereklad.site</a><br/>
+Real Estate Website – 
+<a href="https://www.tykhyi-dvir.com.ua/">tykhyi-dvir.com.ua</a>
+</p>
+
+<h2>📚 Tech Author</h2>
+
+<p>
+Author of programming books and coding problem collections available on Amazon.
+</p>
+
+<p>
+👉 <a href="https://www.amazon.com/stores/Illia-Ivasyk/author/B0F1Z8X5T1">Amazon Author Page</a>
+</p>
+
+<hr/>
 
 <h4>Private Java Tutor</h4>
 <p><i>Aug 2021 – Feb 2022</i></p>
@@ -43,24 +76,8 @@ Strong Junior Developer focused on custom WordPress themes, plugins and producti
 <ul>
   <li>Taught Java fundamentals and OOP principles</li>
   <li>Explained algorithms and structured problem-solving approaches</li>
-  <li>Improved mentoring and communication skills</li>
+  <li>Developed mentoring and communication skills</li>
 </ul>
-
-<hr/>
-
-<h2>🏗 Commercial Projects</h2>
-
-<p>
-<b>Translation Agency Website</b><br/>
-<a href="https://www.pereklad.site/">pereklad.site</a><br/>
-Multilingual WordPress website with fully custom theme and ACF-based structure.
-</p>
-
-<p>
-<b>Real Estate Website</b><br/>
-<a href="https://www.tykhyi-dvir.com.ua/">tykhyi-dvir.com.ua</a><br/>
-Custom WordPress theme, structured content logic and deployment setup.
-</p>
 
 <hr/>
 
@@ -81,7 +98,7 @@ Custom WordPress theme, structured content logic and deployment setup.
   <li>Tailwind CSS</li>
   <li>JavaScript (ES6+)</li>
   <li>jQuery</li>
-  <li>Responsive & cross-browser layout</li>
+  <li>Responsive & cross-browser development</li>
 </ul>
 
 <b>Additional Knowledge</b>
@@ -89,21 +106,9 @@ Custom WordPress theme, structured content logic and deployment setup.
   <li>React (basic)</li>
   <li>TypeScript (basic)</li>
   <li>Java Core</li>
-  <li>Spring Framework (basic)</li>
+  <li>Spring Framework (basic understanding)</li>
   <li>MySQL / SQL</li>
 </ul>
-
-<hr/>
-
-<h2>📚 Tech Author</h2>
-
-<p>
-Author of programming books and coding problem collections available on Amazon.
-</p>
-
-<p>
-👉 <a href="https://www.amazon.com/stores/Illia-Ivasyk/author/B0F1Z8X5T1">Amazon Author Page</a>
-</p>
 
 <hr/>
 
@@ -111,7 +116,8 @@ Author of programming books and coding problem collections available on Amazon.
 
 <ul>
   <li>Ukrainian — Native</li>
-  <li>English — A2 (Pre-Intermediate)</li>
+  <li>Russian — B2</li>
+  <li>English — Pre-Intermediate</li>
 </ul>
 
 <hr/>
