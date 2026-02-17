@@ -6,8 +6,7 @@ Experienced in full-cycle project delivery — from custom theme & plugin develo
 
 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyaivasyk&show_icons=true&rank_icon=github&hide_border=true&cache_seconds=1800" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyaivasyk&layout=compact&hide_border=true&cache_seconds=1800" height="165" />
+  <img src="https://streak-stats.demolab.com?user=ilyaivasyk&hide_border=true" height="165" />
 </p>
 💼 Professional Experience
 WordPress Developer — JDI (Remote)
