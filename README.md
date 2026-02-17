@@ -4,16 +4,6 @@ WordPress Engineer | Plugin Developer | Frontend Developer
 I design and build production-ready WordPress systems with structured architecture, performance focus and long-term maintainability.
 Experienced in full-cycle project delivery — from custom theme & plugin development to hosting, domain and SSL configuration.
 
-📊 GitHub Stats
-
-## 📊 Activity
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ilyaivasyk&theme=dark&hide_border=true" />
-</p>
-
-
-
 💼 Professional Experience
 WordPress Developer — JDI (Remote)
 
