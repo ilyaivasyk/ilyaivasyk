@@ -4,10 +4,6 @@
 WordPress Developer | Plugin Development | Frontend Developer
 </h3>
 
-<p align="center">
-Strong Junior WordPress Developer focused on custom themes, plugin development and production-ready websites.
-</p>
-
 <hr/>
 
 <h2>💼 Professional Experience</h2>
