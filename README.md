@@ -38,7 +38,6 @@ WordPress Developer | Plugin Development | Frontend Developer
 
 <ul>
   <li>Developed commercial WordPress websites from scratch to production</li>
-  <li>Built custom themes based on project requirements</li>
   <li>Implemented structured content management using ACF Pro</li>
   <li>Converted Figma designs into responsive layouts</li>
   <li>Configured hosting, domain and DNS settings</li>
