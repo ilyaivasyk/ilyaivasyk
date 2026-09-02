@@ -12,12 +12,14 @@ WordPress Developer | Plugin Development | Frontend Developer
 <p><i>Feb 2026 – Present</i></p>
 
 <ul>
-  <li>Developing a custom WordPress plugin (currently in progress)</li>
-  <li>Building a commercial website for a cleaning service (in development)</li>
-  <li>Working with Sage (Roots) and Blade templating</li>
-  <li>Implementing structured content management using ACF</li>
-  <li>Configuring hosting, domain settings and SSL certificates</li>
-  <li>Improving frontend performance and responsive layout</li>
+  <li>Developing a custom commercial WordPress plugin (in progress)</li>
+  <li>Ongoing maintenance and support across all the projects below — updates, bug fixes, new features, security, performance, and dev/prod workflow via CI/CD</li>
+  <li><b>Elite Dreams Home</b> (<a href="https://elitedreams.shop">elitedreams.shop</a>) — built a commercial website for a bedding brand: custom Roots Acorn + Blade theme, Tailwind CSS + Vite, ACF Pro block system, custom order flow with region/city and courier-delivery fields, a REST estimate endpoint and Telegram order notifications, GitHub Actions CI/CD, and performance tuning (AVIF, critical CSS, non-blocking assets, LCP / PageSpeed)</li>
+  <li><b>Too Clean</b> (<a href="https://www.tooclean.ca">tooclean.ca</a>) — built the site for a Toronto cleaning company: custom Roots Acorn + Blade theme, Tailwind CSS + Vite, ACF Pro, Rank Math SEO, Cloudflare (CDN / Turnstile / bot rules), Canada-market consent &amp; privacy pages, GitHub Actions CI/CD (dev + prod)</li>
+  <li>Built a <b>custom leads &amp; booking-availability plugin</b> for Too Clean — admin lead inbox (statuses, bulk actions, inline editing), a calendar to open/close dates and time-slots on the public site, atomic slot reservation on booking, CSV / PDF export, and outbox-backed Telegram notifications</li>
+  <li><b>Eco Happy Cleaning</b> (<a href="https://ecohappycleaning.ie">ecohappycleaning.ie</a>) — migrated a legacy Elementor site onto a custom Roots Acorn + Blade theme (Tailwind CSS + Vite, ACF Pro); set up GitHub Actions CI/CD (staging + production), SEO, Cloudflare (CDN, AI crawl control), post-hack cleanup, and integrated the booking flow with Jobber — production redesign rollout pending</li>
+  <li><b>Tykhyi Dvir</b> (<a href="https://www.tykhyi-dvir.com.ua/">tykhyi-dvir.com.ua</a>) — a live real-estate project: rebuilding the theme on the modern stack (Roots Acorn + Blade, Tailwind CSS + Vite, ACF Pro), new features, UX and stability fixes</li>
+  <li>Across projects: Roots Acorn + Blade, ACF Pro, Vite, Tailwind CSS, plus hosting, DNS, SSL and CI/CD deployment pipelines</li>
 </ul>
 
 <h4>WordPress Developer — JDI (Remote)</h4>
@@ -47,9 +49,15 @@ WordPress Developer | Plugin Development | Frontend Developer
 
 <p>
 <b>Projects:</b><br/>
-Translation Agency Website – 
+Elite Dreams Home – Bedding brand –
+<a href="https://elitedreams.shop">elitedreams.shop</a><br/>
+Too Clean – Cleaning Company, Toronto –
+<a href="https://www.tooclean.ca">tooclean.ca</a><br/>
+Eco Happy Cleaning – Cleaning Company, Dublin –
+<a href="https://ecohappycleaning.ie">ecohappycleaning.ie</a><br/>
+Translation Agency Website –
 <a href="https://www.pereklad.site/">pereklad.site</a><br/>
-Real Estate Website – 
+Real Estate Website –
 <a href="https://www.tykhyi-dvir.com.ua/">tykhyi-dvir.com.ua</a>
 </p>
 
@@ -80,10 +88,12 @@ Author of programming books and coding problem collections available on Amazon.
 
 <b>WordPress</b>
 <ul>
-  <li>Custom Theme Development (Sage / Blade)</li>
-  <li>Custom Plugin Development</li>
-  <li>ACF Pro</li>
-  <li>WordPress hooks (actions & filters)</li>
+  <li>Custom Theme Development (Roots Acorn + Blade)</li>
+  <li>Custom Plugin Development (custom DB tables, admin UI, AJAX, CSV/PDF export)</li>
+  <li>ACF Pro (custom blocks &amp; field groups)</li>
+  <li>WordPress hooks (actions &amp; filters), REST API &amp; AJAX endpoints</li>
+  <li>Contact Form 7, Rank Math SEO</li>
+  <li>Third-party integrations (Jobber, Telegram Bot API)</li>
   <li>Bedrock</li>
 </ul>
 
@@ -93,11 +103,20 @@ Author of programming books and coding problem collections available on Amazon.
   <li>Tailwind CSS</li>
   <li>JavaScript (ES6+)</li>
   <li>jQuery</li>
-  <li>Responsive & cross-browser development</li>
+  <li>Responsive &amp; cross-browser development</li>
+</ul>
+
+<b>DevOps &amp; Tooling</b>
+<ul>
+  <li>Git / GitHub Actions CI/CD (SSH / rsync deploy, staging &amp; production)</li>
+  <li>Vite, Composer, WP-CLI</li>
+  <li>Hosting, DNS, SSL, Cloudflare</li>
+  <li>Web performance optimization (Core Web Vitals / PageSpeed)</li>
 </ul>
 
 <b>Additional Knowledge</b>
 <ul>
+  <li>Node.js (basic)</li>
   <li>React (basic)</li>
   <li>TypeScript (basic)</li>
   <li>Java Core</li>
